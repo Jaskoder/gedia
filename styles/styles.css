@@ -620,6 +620,13 @@ img {
 
 @media (max-width : 640px) {
 
+    .hero h1 {
+
+        .gedia {
+            -webkit-text-stroke: 3px var(--color-blue-500);
+        }
+    }
+
     .about {
         flex-direction: column;
     }
