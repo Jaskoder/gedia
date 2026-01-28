@@ -2,5 +2,5 @@ const currentLang = navigator.language;
 const currentPathname = window.location.pathname;
 
 if(currentLang === 'fr-FR') {
-    window.location.pathname = 'fr'
+    window.location.pathname = 'fr/index.html'
 }
